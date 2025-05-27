@@ -2,10 +2,6 @@
 
 This project implements a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. Built with TensorFlow and Keras, the model aims to accurately classify images into one of ten classes, such as airplane, dog, ship, etc.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/cifar10-cnn-classifier/main/assets/cifar10_sample.png" alt="CIFAR-10 Sample" width="600"/>
-</p>
-
 ---
 
 ## 🔍 Overview
